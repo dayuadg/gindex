@@ -22,7 +22,7 @@ export default {
     return {};
   },
   components: {
-    
+    Head,
     Footer: Footer,
     APlayer
   },
